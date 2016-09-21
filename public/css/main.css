@@ -3,3 +3,38 @@
   width: 100%;
   height: 200px;
 }
+
+
+.access {
+  float: right;
+}
+
+.access li {
+  display: inline;
+  list-style: none;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+ul.access li:hover{
+  background-color: white;
+}
+
+
+
+ul.access li a{
+  text-decoration: none;
+  color: white;
+
+}
+
+ul.access li a:hover{
+  background-color: white;
+  color: #87CEFA;
+}
+
+.btn {
+  border: 1px solid white;
+  padding: 10px 30px;
+  border-radius: 5px;
+}
