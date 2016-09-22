@@ -38,3 +38,21 @@ ul.access li a:hover{
   padding: 10px 30px;
   border-radius: 5px;
 }
+
+#main-header div{
+  display: inline;
+}
+
+#main-header div h1{
+  margin: 0 auto;
+  display: inline;
+  color: chartreuse;
+
+}
+
+#nav li {
+  display: inline;
+  list-style: none;
+  margin-left: 10px;
+  margin-right: 10px;
+}
